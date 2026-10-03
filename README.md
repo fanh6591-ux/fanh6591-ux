@@ -32,6 +32,8 @@ I help teams turn business problems into practical AI workflows — connecting d
 
 | 项目 | 内容 |
 | --- | --- |
+| [Isaac2024 Website](https://github.com/fanh6591-ux/isaac2024-website) | 官网公开前端：3D 叙事、企业 AI 服务与案例，可在本地联网预览。 |
+| [AI Value Explorer](https://github.com/fanh6591-ux/enterprise-ai-value-explorer) | 可离线运行的企业 AI 投入与产能价值交互演示。[在线试用](https://fanh6591-ux.github.io/enterprise-ai-value-explorer/) |
 | [Enterprise AI Playbook](https://github.com/fanh6591-ux/enterprise-ai-playbook) | 企业 AI 项目指南：场景拆解、需求诊断、数据字典、验收与 PBL 模板。 |
 | [ProdGate](https://github.com/fanh6591-ux/prodgate) | 一个探索 AI 编程助手命令安全的本地工具，包含规则、实现与威胁模型文档；目前为 alpha 项目。 |
 
